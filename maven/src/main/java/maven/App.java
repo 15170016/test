@@ -1,7 +1,7 @@
 package maven;
 
 /**
- * Hello world!лавпловаолаолп
+ * Hello world!
  *
  */
 public class App 
